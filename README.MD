@@ -1,13 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ashutoshrai10630">
-
-
-<h1 align="center">
-     <a href="httph://git.io/typing-svg">
-       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+😀;+This+Is+ASHUTOSH+RAI!;+&center=true&size=30">
-     </a>
-  </h1>
 <h1 align="center">Hi 👋, I'm Ashutosh Rai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt ="coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshrai10630&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshrai10630" /> </p>
 
@@ -32,8 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshrai10630&show_icons=true&locale=en" alt="ashutoshrai10630" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshrai10630&" alt="ashutoshrai10630" /></p>
-
-
-
-
-
