@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/headers/monstercat/LQnX59nHBsOV.gif)](http://Ashutoshrai10630.io)
+[![MasterHead](https://64.media.tumblr.com/7ee1145664e10c638564af7b9a8246ac/tumblr_mzus6xFtov1qbzzgco1_1280.gifv)](http://Ashutoshrai10630.io)
 
 <h1 align="center">Hi 👋, I'm Ashutosh Rai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
