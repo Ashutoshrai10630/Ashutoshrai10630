@@ -23,7 +23,7 @@
 <a href="https://instagram.com/a_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_s" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/h21051550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h21051550" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashutoshhrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashutoshhrai" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/ashutoshrai007/practice" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" alt="ashutoshhrai" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/ashutoshrai007/practice" target="blank"><img align="center" src="https://yt3.googleusercontent.com/ytc/AL5GRJXsZkM7A5m_RP5GcyMRjRKQ8RVSN3DwCFTp486Mqg=s900-c-k-c0x00ffffff-no-rj" alt="ashutoshhrai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
