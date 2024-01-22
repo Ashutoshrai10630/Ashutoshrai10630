@@ -1,11 +1,12 @@
 [![MasterHead](https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966)](http://Ashutoshrai10630.io)
-   <iframe src="clock.html" width="200" height="100" style="border: none;"></iframe>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+😀;+This+Is+Ashutosh+Rai!;+&center=true&size=30">
   </a>
+   <iframe src="clock.html" width="200" height="100" style="border: none;"></iframe>
 </h1>
 <img align="right" alt ="coding" width="350" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
