@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4E16AQG5MJN7u4O34g/profile-displaybackgroundimage-shrink_200_800/0/1631627401432)
+![MasterHead](https://s3.amazonaws.com/thumbnails.venngage.com/template/b62908cb-3cf7-4ae9-8c38-46d078a11d31.png)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
