@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+😀;+This+Is+Ashutosh+Rai!;+&center=true&size=30">
   </a>
 </h1>
-<iframe src="clock.html" width="200" height="100" style="border: none;"></iframe>
 <img align="right" alt ="coding" width="350" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshrai10630&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshrai10630" /> </p>
