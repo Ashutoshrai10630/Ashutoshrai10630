@@ -1,4 +1,9 @@
+
+<h1 align="center">
+<img src="https://github.com/Ashutoshrai10630/GITHUB_PROFILE/blob/main/name.svg" alt="Ashutosh Rai" />
+</h1>
 <h1 align="center">Hi 👋, I'm Ashutosh Rai</h1>
+
 <h3 align="center">An enthusiastic frontend developer based in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshrai10630&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshrai10630" /> </p>
