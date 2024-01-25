@@ -1,4 +1,4 @@
-
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="image" style="width: 1000px; height: 250px;">
 <h1 align="center">
 <img src="https://github.com/Ashutoshrai10630/GITHUB_PROFILE/blob/main/name.svg" alt="Ashutosh Rai" />
 </h1>
