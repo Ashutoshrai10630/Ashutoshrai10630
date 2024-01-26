@@ -1,3 +1,8 @@
+<div align="center">
+  <img  src="https://github.com/Ashutoshrai10630/GITHUB_PROFILE/blob/main/snake.svg"
+       alt="snake" /></a>
+</div>
+
 https://github.com/Ashutoshrai10630/GITHUB_PROFILE/blob/main/snake.svg
 <h1 align="center">
 <img src="https://github.com/Ashutoshrai10630/GITHUB_PROFILE/blob/main/name.svg" alt="Ashutosh Rai" />
