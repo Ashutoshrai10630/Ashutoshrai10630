@@ -43,7 +43,7 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="KIIT_logo.svg.png"/>](https://www.uninter.com/)
 **Software Engineering Undergraduate** \
-[** Kalinga Institute of Industrial Technology**](https://www.uninter.com/)  • In progress\
+[**Kalinga Institute of Industrial Technology**](https://www.uninter.com/)  • In progress\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
