@@ -47,9 +47,9 @@
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src=https://github.com/Ashutoshrai10630/Ashutoshrai10630/blob/main/apni%20kaksha.jpg/>](https://www.onebitcode.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src=https://github.com/Ashutoshrai10630/Ashutoshrai10630/blob/main/apni%20kaksha.jpg/>](https://www.apnacollege.in/)
 **Full Stack Developer** \
-[**Apni Kaksha**](https://www.onebitcode.com/) • In progress \
+[**Apni Kaksha**](https://www.apnacollege.in/) • In progress \
 Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
 `Bulma` `MongoDB` `ElectronJS`
 
