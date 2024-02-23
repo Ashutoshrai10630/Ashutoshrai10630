@@ -82,3 +82,5 @@ Skills: `Operating System` `Computer Organization and Architecture` `DBMS` `Comp
 <a href = "mailto: Rai.ashutosh.pvt@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ashutoshrai07/" target="_blank"><img loading="lazy" img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"  height="48px" width="48px"></a>    
 </div>
+<a href="https://www.linkedin.com/in/ashutoshrai07/" target="_blank"><img loading="lazy" img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"  height="48px" width="48px"></a>    
+</div>
