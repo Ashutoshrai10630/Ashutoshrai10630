@@ -27,12 +27,6 @@
 
 
 
-
-
-
-  <a href="https://nodejs.org/en">
-    <img src="https://github.com/Ashutoshrai10630/Ashutoshrai10630/blob/main/nodejs.svg" height="48px" width="48px" alt="Node.js">
-</a>
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
 
 
