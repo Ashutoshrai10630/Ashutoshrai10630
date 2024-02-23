@@ -31,6 +31,9 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+  <a href="https://nodejs.org/en">
+    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" height="48px" width="48px" alt="Node.js">
+</a>
   [<img height="48px" width="48px" alt="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg"/>](https://www.mysql.com/)
 
 
