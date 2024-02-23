@@ -29,17 +29,9 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nextjs"/>](https://nextjs.org/)
  
-
-<a style="display: inline;" href="https://getbootstrap.com">
-    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" height="48px" width="48px" alt="Node.js">
-</a>
-
-  <a style="display: inline;" href="https://nextjs.org">
-    <img src="https://github.com/Ashutoshrai10630/Ashutoshrai10630/blob/main/nextjs.svg" height="48px" width="48px" alt="Node.js">
-
-</a>
-
 
 
 
