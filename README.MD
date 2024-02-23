@@ -21,8 +21,9 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://github.com/Ashutoshrai10630/Ashutoshrai10630/blob/main/nodejs.svg"/>](https://nodejs.org/en)
+
 
 
 
