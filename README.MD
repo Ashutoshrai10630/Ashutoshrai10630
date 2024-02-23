@@ -57,7 +57,7 @@ Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `G
 [<img align="left" height="94px" width="94px" alt="Warpnet" src=https://github.com/Ashutoshrai10630/Ashutoshrai10630/blob/main/pw.png/>](https://www.apnacollege.in/)
 **GATE** \
 [**Physics Wallah**](https://www.pw.live/study/batches/study) • In progress \
-Skills: `Operating System` `COA` `HPC` `DBMS` `Compiler Design` `AFL`  `Theory of Computation` `Algorithms` `General Aptitude`
+Skills: `Operating System` `Computer Organization and Architecture` `DBMS` `Compiler Design` `AFL`  `Theory of Computation` `Algorithms` `General Aptitude`
 <br>
 
 ## Contact me:
