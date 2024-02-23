@@ -36,6 +36,11 @@
 </a>
 
 
+  <a href="https://nextjs.org">
+    <img src="https://github.com/Ashutoshrai10630/Ashutoshrai10630/blob/main/nextjs-icon-svgrepo-com.svg" height="48px" width="48px" alt="Node.js">
+</a>
+
+
 
 
 #### Tools:
