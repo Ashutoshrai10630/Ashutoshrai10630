@@ -38,7 +38,8 @@
 </a>
 
   <a style="display: inline;" href="https://nextjs.org">
-    <img src="https://github.com/Ashutoshrai10630/Ashutoshrai10630/blob/main/nextjs%20(1).svg" height="48px" width="48px" alt="Node.js">
+    <img src="https://github.com/Ashutoshrai10630/Ashutoshrai10630/blob/main/nextjs.svg" height="48px" width="48px" alt="Node.js">
+
 </a>
 
 
