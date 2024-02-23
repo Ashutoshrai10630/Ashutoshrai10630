@@ -33,7 +33,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
 
   <a href="https://nextjs.org">
-    <img src="https://github.com/Ashutoshrai10630/Ashutoshrai10630/blob/main/nextjs-icon-svgrepo-com.svg" height="48px" width="48px" alt="Node.js">
+    <img src="https://github.com/Ashutoshrai10630/Ashutoshrai10630/blob/main/nextjs.svg" height="48px" width="48px" alt="Node.js">
 </a>
   <a href="https://getbootstrap.com">
     <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" height="48px" width="48px" alt="Node.js">
