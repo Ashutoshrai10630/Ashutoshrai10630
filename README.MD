@@ -57,7 +57,7 @@
 
 ## Academic Background:
 
-[<img align="left" height="84px" width="84px" alt="Warpnet" src="KIIT_logo.svg.png"/>](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiRh4_Fqv-DAxWbxjgGHYuLBmYQFnoECA8QAQ&url=https%3A%2F%2Fkiit.ac.in%2F&usg=AOvVaw3wSr3h_34TPltM8tyCohvr&opi=89978449)
+[<img align="left" height="84px" width="94px" alt="Warpnet" src="KIIT_logo.svg.png"/>](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiRh4_Fqv-DAxWbxjgGHYuLBmYQFnoECA8QAQ&url=https%3A%2F%2Fkiit.ac.in%2F&usg=AOvVaw3wSr3h_34TPltM8tyCohvr&opi=89978449)
 **Software Engineering Undergraduate** \
 [**Kalinga Institute of Industrial Technology**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiRh4_Fqv-DAxWbxjgGHYuLBmYQFnoECA8QAQ&url=https%3A%2F%2Fkiit.ac.in%2F&usg=AOvVaw3wSr3h_34TPltM8tyCohvr&opi=89978449)  • In progress\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
