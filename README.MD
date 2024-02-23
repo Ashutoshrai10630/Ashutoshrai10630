@@ -56,7 +56,7 @@ Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `G
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src=https://github.com/Ashutoshrai10630/Ashutoshrai10630/blob/main/pw.png/>](https://www.apnacollege.in/)
 **GATE** \
-[**Apni Kaksha**](https://www.pw.live/study/batches/study) • In progress \
+[**Physics Wallah**](https://www.pw.live/study/batches/study) • In progress \
 Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
 `Bulma` `MongoDB` `ElectronJS`
 <br>
